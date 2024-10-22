@@ -1,0 +1,77 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+section#projets {
+    padding: 20px;
+    text-align: center;
+    background: #fff;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+section#projets img {
+    width: 300px;
+    margin: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+section#maintenance {
+    padding: 20px;
+    text-align: center;
+}
+
+section#maintenance img {
+    width: 300px;
+    margin: 10px;
+}
+
+section#maintenance-compteuses {
+    padding: 20px;
+    text-align: center;
+}
+
+section#maintenance-compteuses img {
+    width: 300px;
+    margin: 10px;
+}
+
+form {
+    background: #fff;
+    padding: 20px 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+input, textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
